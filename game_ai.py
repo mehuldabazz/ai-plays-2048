@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#.
 NUMBER_OF_MOVES = 4
 SAMPLE_COUNT = 50
 SPM_SCALE_PARAM = 10
